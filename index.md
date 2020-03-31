@@ -1,4 +1,6 @@
-### by Isadora Maria Mendes de Souza (ismendes@microsoft.com)
+# Lessons About Rejection and How They Landed Me a Program Manager Dream Job at Microsoft 
+## A narrative by Isadora Maria Mendes de Souza
+### ismendes@microsoft.com
 
 Getting a scholarship and becoming a Grace Hopper Celebration Scholar involves several steps, and these steps often involve rejection.
 I'm sure that many of you here are here today because you applied for and received a scholarship, as I did in 2018. I also understand that many of you did not get a scholarship and still sought alternatives to attend the event, either through other forms of sponsorship, or by paying out of your own pocket, considering that this event is a "must" in any woman's career in technology.
